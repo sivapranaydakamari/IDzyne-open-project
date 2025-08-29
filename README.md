@@ -58,9 +58,8 @@ cd idzyne-open-project
 
 flutter pub get
 flutter run
-
+```
 ---
-
 ## 📬 Contact
 
 📧 **Email:** [sivapranay1423@gmail.com](mailto:sivapranay1423@gmail.com)
