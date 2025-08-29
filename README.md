@@ -49,6 +49,17 @@ With a focus on **usability, reliability, and speed**, IDzyne ensures that insti
 * **Backend:** REST APIs *(hidden for privacy)*
 
 ---
+## 🏗️ Project Setup
+
+Follow these steps to set up and run project locally:
+```sh
+git clone https://github.com/<your-username>/idzyne-open-project.git
+cd idzyne-open-project
+
+flutter pub get
+flutter run
+
+---
 
 ## 📬 Contact
 
