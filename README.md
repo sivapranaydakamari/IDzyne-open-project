@@ -50,28 +50,7 @@ With a focus on **usability, reliability, and speed**, IDzyne ensures that insti
 
 ---
 
-## 🏗️ Project Setup
-
-```bash
-# Clone repo
-git clone https://github.com/bhagyaprasad92/idzyne-project.git
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome! Fork this repo, create a branch, make changes, and submit a pull request. 🚀
-// Removed few important lines in code for not giving complete implementation.
----
-
 ## 📬 Contact
 
-📧 **Email:** [scs150831@gmail.com](mailto:scs150831@gmail.com)
-🌍 **GitHub:** [bhagyaprasad92](https://github.com/bhagyaprasad92)
+📧 **Email:** [sivapranay1423@gmail.com](mailto:sivapranay1423@gmail.com)
+🌍 **GitHub:** [sivapranaydakamari](https://github.com/sivapranaydakamari)
