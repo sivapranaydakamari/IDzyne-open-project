@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00E6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=IDzyne+–+Smart+Student+Management+App;Fast+%7C+Reliable+%7C+Built+with+Flutter;Attendance+%26+ID+Scanner+Simplified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00E6FF&center=true&vCenter=true&multiline=true&width=900&height=130&lines=IDzyne+–+Smart+Student+Management+App;Fast+%7C+Reliable+%7C+Built+with+Flutter;Attendance+%26+ID+Scanner+Simplified" alt="Typing SVG" />
 </p>
 
 ---
